@@ -1,0 +1,32 @@
+<libraries>
+  <library
+      name="C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+      jars="C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\b18f4473c12536cbf18dc52a04e7a7ad\transformed\out\jars\classes.jar;C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\b18f4473c12536cbf18dc52a04e7a7ad\transformed\out\jars\libs\R.jar;C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\b18f4473c12536cbf18dc52a04e7a7ad\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\b18f4473c12536cbf18dc52a04e7a7ad\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name="C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+      jars="C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\ee6d667259525ba337597c18aa074532\transformed\out\jars\classes.jar;C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\ee6d667259525ba337597c18aa074532\transformed\out\jars\libs\R.jar"
+      resolved="Gradle.unityLibrary:xrmanifest.androidlib:unspecified"
+      folder="C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\ee6d667259525ba337597c18aa074532\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>

@@ -1,0 +1,123 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk android:minSdkVersion="23" />
+6-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+7
+8    <uses-permission android:name="android.permission.INTERNET" />
+8-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+8-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+9
+10    <uses-feature android:glEsVersion="0x00030000" />
+10-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-52
+10-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:17-49
+11    <uses-feature
+11-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-88
+12        android:name="android.hardware.touchscreen"
+12-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-60
+13        android:required="false" />
+13-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:61-85
+14    <uses-feature
+14-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-99
+15        android:name="android.hardware.touchscreen.multitouch"
+15-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-71
+16        android:required="false" />
+16-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:72-96
+17    <uses-feature
+17-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-108
+18        android:name="android.hardware.touchscreen.multitouch.distinct"
+18-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-80
+19        android:required="false" />
+19-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:81-105
+20
+21    <application android:extractNativeLibs="true" >
+21-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-24:17
+21-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:16-48
+22        <meta-data
+22-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:5-69
+23            android:name="unity.splash-mode"
+23-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:16-48
+24            android:value="0" />
+24-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:49-66
+25        <meta-data
+25-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:5-74
+26            android:name="unity.splash-enable"
+26-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-50
+27            android:value="True" />
+27-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:51-71
+28        <meta-data
+28-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-78
+29            android:name="unity.launch-fullscreen"
+29-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-54
+30            android:value="True" />
+30-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:55-75
+31        <meta-data
+31-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-84
+32            android:name="unity.render-outside-safearea"
+32-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-60
+33            android:value="True" />
+33-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:61-81
+34        <meta-data
+34-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-81
+35            android:name="notch.config"
+35-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-43
+36            android:value="portrait|landscape" />
+36-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:44-78
+37        <meta-data
+37-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-84
+38            android:name="unity.auto-report-fully-drawn"
+38-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-60
+39            android:value="true" />
+39-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:61-81
+40
+41        <activity
+41-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-23:16
+42            android:name="com.unity3d.player.UnityPlayerActivity"
+42-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:15-68
+43            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+43-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:180-361
+44            android:exported="true"
+44-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:433-456
+45            android:hardwareAccelerated="false"
+45-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:397-432
+46            android:launchMode="singleTask"
+46-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:148-179
+47            android:resizeableActivity="false"
+47-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:362-396
+48            android:screenOrientation="fullUser"
+48-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:111-147
+49            android:theme="@style/UnityThemeSelector" >
+49-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:69-110
+50            <intent-filter>
+50-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:7-20:23
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:9-69
+51-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:19-66
+52
+53                <action android:name="android.intent.action.MAIN" />
+53-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:9-61
+53-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:17-58
+54
+55                <category android:name="com.oculus.intent.category.VR" />
+55-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:9-66
+55-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:19-63
+56            </intent-filter>
+57
+58            <meta-data
+58-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:7-82
+59                android:name="unityplayer.UnityActivity"
+59-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:18-58
+60                android:value="true" />
+60-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:59-79
+61            <meta-data
+61-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:7-70
+62                android:name="notch_support"
+62-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:18-46
+63                android:value="true" />
+63-->C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:47-67
+64        </activity>
+65    </application>
+66
+67</manifest>

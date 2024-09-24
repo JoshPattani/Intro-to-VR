@@ -1,0 +1,10 @@
+com.DefaultCompany.spaceTime.launcher-pngs-0 C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.spaceTime.launcher-resValues-1 C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.spaceTime.launcher-rs-2 C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.spaceTime.launcher-mergeReleaseResources-3 C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.spaceTime.launcher-mergeReleaseResources-4 C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.spaceTime.launcher-merged_res-5 C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.spaceTime.launcher-main-6 C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\res
+com.DefaultCompany.spaceTime.launcher-release-7 C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\release\res
+com.DefaultCompany.spaceTime.launcher-packaged_res-8 C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\packaged_res\release
+com.DefaultCompany.spaceTime.launcher-packaged_res-9 C:\Users\joshp\VR\spaceTime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\packaged_res\release
